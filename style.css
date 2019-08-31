@@ -1,13 +1,14 @@
 .row-1{
-	background:#5DA6FE;
+	background:linear-gradient(0deg,#3F96FE,#5FA8FF);
 	height:50vh;
 }
 .row-2{
-	background:#fff;
+	background:radial-gradient(#E5EDF5, #FDFFFF);;
 	height:50vh;
 }
 .rowin{
 	display: flex;
+	border-radius: 10px;
 /*	justify-content:center;*/
 }
 .container-1{
